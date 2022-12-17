@@ -6,7 +6,7 @@ A platform for real-estate investors looking to buy properties in the San Franci
 **This platform delivers insight for real-estate investors in order to find the best homes in the San Francisco market to buy then rent**
 
 ---
-## Please navigate to [real-estate-visualization](https://github.com/Brock-Denton/credit-union-financial-health/blob/main/tool_resources/financial_planning_tools.ipynb)
+## Please navigate to [real-estate-visualization](https://github.com/Brock-Denton/real-estate_app_buy_then_rent/blob/main/san_francisco_housing.ipynb)
 ---
 ## Contributor
 ### Brock Denton, Brockchecksmail@gmail.com 

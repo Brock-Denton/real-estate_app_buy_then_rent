@@ -9,8 +9,10 @@ A platform for real-estate investors looking to buy properties in the San Franci
 ---
 ## Dependencies 
 
-hvplot & geoviews
+hvplot & geoviews:
+
 -pip install hvplot 
+
 -pip install geoviews
 
 ---

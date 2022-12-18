@@ -10,9 +10,9 @@ A platform for real-estate investors looking to buy properties in the San Franci
 ## Dependencies 
 
 hvplot & geoviews
+-pip install hvplot 
+-pip install geoviews
 
-pip install hvplot 
-pip install geoviews
 ---
 ## Please navigate to [real-estate-visualization](https://github.com/Brock-Denton/real-estate_app_buy_then_rent/blob/main/san_francisco_housing.ipynb)
 ---

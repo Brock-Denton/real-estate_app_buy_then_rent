@@ -5,6 +5,14 @@ A platform for real-estate investors looking to buy properties in the San Franci
 
 **This platform delivers insight for real-estate investors in order to find the best homes in the San Francisco market to buy then rent**
 
+
+---
+## Dependencies 
+
+hvplot & geoviews
+
+pip install hvplot 
+pip install geoviews
 ---
 ## Please navigate to [real-estate-visualization](https://github.com/Brock-Denton/real-estate_app_buy_then_rent/blob/main/san_francisco_housing.ipynb)
 ---
